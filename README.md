@@ -6,7 +6,7 @@
 Y. M. Liao, W. Li, D. Yang. The accelerated tensor Kaczmarz algorithm with adaptive parameters for solving tensor systems. Applied Numerical Mathematics, 202, 100-119, 2024. 
 ```
 
-DOI: https://doi.org/10.1016/j.apnum.2024.04.016 
+:link: DOI: https://doi.org/10.1016/j.apnum.2024.04.016 
 
 ### Preparation 
 
