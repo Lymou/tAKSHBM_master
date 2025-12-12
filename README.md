@@ -1,4 +1,4 @@
-# The accelerated tensor Kaczmarz algorithm with adaptive parameters for solving tensor systems.
+# The accelerated tensor Kaczmarz algorithm with adaptive parameters for solving tensor systems
 
 :computer: This repository contains the MATLAB code for tAKSHBM introduced in the following paper 
 
