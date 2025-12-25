@@ -9,6 +9,7 @@ Y. M. Liao, W. Li, D. Yang. The accelerated tensor Kaczmarz algorithm with adapt
 :link: DOI: https://doi.org/10.1016/j.apnum.2024.04.016 
 
 ### Preparation 
+The code need Tensor-tensor-product-toolbox.
 
 * **Windows 64bit** 
 * **Example usage**:
